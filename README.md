@@ -4,19 +4,19 @@ The installation is very simple and similar to traditional Laravel installation
 
 ### Install Laravel
 
-```json
+```
 composer install
 ```
 
 Copy .env.example and make sure update environment variables for Fedex
 
-```json
+```
 cp .env.example .env
 ```
 
 Generate Application Key
 
-```json
+```
 php artisan key:generate
 ```
 
@@ -24,7 +24,7 @@ php artisan key:generate
 
 Project uses Filament and a table component from TailwindUI. So make sure to run following command to build css/js files.
 
-```json
+```
 npm install && npm run build
 ```
 
