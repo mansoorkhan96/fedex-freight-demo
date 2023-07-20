@@ -47,6 +47,6 @@ If you are using Valet, just open the site in browser and login to Filament
 
 Otherwise run `php artisan:serve` and visit http://127.0.0.1:8000/
 
-### Why nothing in routes/web.php
+### Why nothing in routes/web.php?
 
 Well, this project uses Filament and all the routes are dynamically served.
