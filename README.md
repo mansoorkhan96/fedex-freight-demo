@@ -34,7 +34,7 @@ To get started, run following command to play with test data.
 
 _Note: This command will clean your database_
 
-```json
+```
 php artisan migrate:fresh --seed
 ```
 
