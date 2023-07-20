@@ -20,7 +20,7 @@ Generate Application Key
 php artisan key:generate
 ```
 
-### NPM
+### Install NPM dependencies
 
 Project uses Filament and a table component from TailwindUI. So make sure to run following command to build css/js files.
 
